@@ -1,4 +1,4 @@
-FROM jizma/dev-env:ros-cv
+FROM QiongNIE/dev-env:ros-cv
 
 ENV DEBIAN_FRONTEND noninteractive
 
