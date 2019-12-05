@@ -1,5 +1,5 @@
 
-sudo nvidia-docker run -d -v /home/majizhou/WorkSpace:/home/majizhou/WorkSpace --name=ros_cv_ml 602b98e4cc2f 
+sudo nvidia-docker run -d -v /home/qiong/WorkSpace:/home/qiong/WorkSpace --name=ros_cv_ml 602b98e4cc2f 
 
 //设置docker内ros向外部roscore发消息
 //设置本机IP
